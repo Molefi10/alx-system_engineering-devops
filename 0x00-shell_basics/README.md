@@ -14,4 +14,5 @@ And hidden files (starting with .)
 
 The file betty is in /tmp/my_first_directory
 9-firstdirdeletio Delete the directory my_first_directory that is in the /tmp directory.
+10-back script that changes the working directory to the previous one.
 
